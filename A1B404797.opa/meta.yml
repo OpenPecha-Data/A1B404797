@@ -1,0 +1,19 @@
+id: A1B404797
+title: A Prayer to Dudjom Lingpa
+type: translation
+pechas:
+- I82801D38
+- IA6B8FB6A
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:36.856709
+  last_modified_at: 2023-01-04 11:46:36.856730
+  collections:
+  - Dudjom Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I82801D38/4A74: D551
+  IA6B8FB6A/A84E: D551
